@@ -1,0 +1,20 @@
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+C:/Ruby34-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-2gxbt7 sitelibdir\=./.gem.20250520-15320-2gxbt7 clean
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-2gxbt7 sitelibdir\=./.gem.20250520-15320-2gxbt7
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-2gxbt7 sitelibdir\=./.gem.20250520-15320-2gxbt7 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250520-15320-2gxbt7/debug
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-2gxbt7 sitelibdir\=./.gem.20250520-15320-2gxbt7 clean

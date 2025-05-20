@@ -1,0 +1,19 @@
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+C:/Ruby34-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-p2jyx3 sitelibdir\=./.gem.20250520-15320-p2jyx3 clean
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-p2jyx3 sitelibdir\=./.gem.20250520-15320-p2jyx3
+generating escape-x64-mingw-ucrt.def
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-p2jyx3 sitelibdir\=./.gem.20250520-15320-p2jyx3 install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250520-15320-p2jyx3/erb
+
+current directory: C:/Users/georg_0mijctp/OneDrive/Desktop/photo_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.1/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20250520-15320-p2jyx3 sitelibdir\=./.gem.20250520-15320-p2jyx3 clean
